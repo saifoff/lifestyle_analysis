@@ -4,7 +4,7 @@ This project explores the association between various lifestyle factors such as 
 
 ---
 # Correlation
-![Outcome](correlation.png)
+![correlation](correlation.png)
 ## 📌 Overview  
 The goal of this project is to analyze the impact of different lifestyle choices on well-being and identify key patterns using **EDA (Exploratory Data Analysis)** and **machine learning models**.  
 
