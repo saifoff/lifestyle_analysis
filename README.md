@@ -3,7 +3,7 @@
 This project explores the association between various lifestyle factors such as **BMI, stress, sleep hours, achievements, and social connections** using the **Wellbeing and Lifestyle dataset from Kaggle**.  
 
 ---
-![Outcome](ebhi_visualization.png)
+![Outcome](correlation.png)
 ## 📌 Overview  
 The goal of this project is to analyze the impact of different lifestyle choices on well-being and identify key patterns using **EDA (Exploratory Data Analysis)** and **machine learning models**.  
 
@@ -13,7 +13,9 @@ The goal of this project is to analyze the impact of different lifestyle choices
 - Does maintaining a **core circle of friends** impact stress levels?  
 - How does **meditation** influence productivity and achievements?  
 - What factors contribute most to **work-life balance**?  
-
+![healthybody](healthy_body.png)
+![healthymind](healthy_mind.png)
+![achievement](personal_achievement.png)
 ---
 
 ## 📂 Dataset Information  
